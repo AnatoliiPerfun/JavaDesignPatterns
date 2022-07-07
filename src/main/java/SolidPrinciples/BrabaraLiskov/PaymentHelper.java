@@ -24,17 +24,17 @@ public class PaymentHelper {
     }
 
     public void processNewPayment() {
-        for (NewPayment payment : newPayments) {
+        newPayments.forEach(payment -> {
             payment.newPayment();
             out.println("\n*******\n");
-        }
+        });
     }
 
     public void  showPreviousPayment() {
-        for (PreviousPayment payment : previousPayments) {
+        previousPayments.forEach(payment -> {
             payment.previousPaymentInfo();
             out.println("\n*******\n");
-        }
+        });
     }
 
 }
