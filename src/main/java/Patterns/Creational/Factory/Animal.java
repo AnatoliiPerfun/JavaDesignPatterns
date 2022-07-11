@@ -1,4 +1,4 @@
-package Patterns.FactoryMethod;
+package Patterns.Creational.Factory;
 
 /**
  * @author Tolik
