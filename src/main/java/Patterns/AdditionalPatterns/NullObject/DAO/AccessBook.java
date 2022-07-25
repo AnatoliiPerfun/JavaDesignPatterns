@@ -1,4 +1,4 @@
-package Patterns.AdditionalPatterns.DAO;
+package Patterns.AdditionalPatterns.NullObject.DAO;
 
 /**
  * @author Tolik

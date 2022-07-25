@@ -1,4 +1,4 @@
-package Patterns.AdditionalPatterns.DAO;
+package Patterns.AdditionalPatterns.NullObject.DAO;
 
 import java.util.ArrayList;
 import java.util.List;
