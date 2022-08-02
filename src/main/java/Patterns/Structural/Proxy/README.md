@@ -1,8 +1,8 @@
 
-## Adapter Design Pattern
+## Proxy Design Pattern
 
 ---
+> Provide a surrogate or placeholder for another object to control access to it.
 
-        Adapter design pattern is one of the structural design pattern 
-        and it used so that two unrelated interfaces can work together. 
-        The object that joins these unrelated interface is called an Adapter.
+        he definition itself is very clear and proxy design pattern 
+        is used when we want to provide controlled access of a functionality.
